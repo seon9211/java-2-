@@ -36,6 +36,7 @@ public class BodyMassIndexMachine {
 			
 	}
 	public static void main(String[] args) {
+		
 		BodyMassIndexMachine m = new BodyMassIndexMachine();
 		Scanner sc = new Scanner(System.in);		
 		System.out.println("키를 입력하세요 .(예 170cm => 1.7)");
